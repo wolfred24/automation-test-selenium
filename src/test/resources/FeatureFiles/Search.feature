@@ -1,7 +1,7 @@
 Feature: Search for Batman movies
 	User should be able to search for Batman movies and look at results
 	
-Scenario: Login in to account with correct details
+Scenario: Browse for Batman movies and check if Search Box is empty
 	Given Open browser in http://localhost:3000/shows
 	And Enter a text in search box with text "batman"
 	And Press button search
