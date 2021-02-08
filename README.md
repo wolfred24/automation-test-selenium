@@ -1,2 +1,2 @@
 # automation-test-selenium
-Testing project 
+Testing project using Selenium and Cucumber Framework
